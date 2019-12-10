@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MySort",
+      "request": "launch",
+      "mainClass": "MySort",
+      "projectName": "java-demos_3a441f4a"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MyArrayList",
+      "request": "launch",
+      "mainClass": "MyArrayList"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Array01",
+      "request": "launch",
+      "mainClass": "Array01"
+    }
+  ]
+}
